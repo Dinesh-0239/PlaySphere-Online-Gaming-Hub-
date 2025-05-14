@@ -1,2 +1,20 @@
-# PlaySphere-Online-Gaming-Hub-
-PlaySphere is a web-based platform built using Django that serves as an online gaming hub. It allows users to register, log in, browse various games, and track their performance over time. Designed with both end-users and administrators in mind, the platform provides separate dashboards and role-specific features to enhance the user experience.
+# 🎮 PlaySphere - Online Gaming Hub
+
+PlaySphere is a Django-based web application that allows users to register, log in, and explore a variety of online games. Admins can manage users and games, while users can track their game performance.
+
+## 🚀 Features
+
+- User authentication (Register/Login)
+- Admin panel for game and user management
+- Game listing with details
+- Performance tracking for users
+- Responsive UI
+
+## 🛠️ Tech Stack
+
+- **Backend**: Django, SQLite
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap
+- **Database**: SQLite
+
+## 📁 Project Structure
+
