@@ -16,5 +16,5 @@ PlaySphere is a Django-based web application that allows users to register, log 
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
 - **Database**: SQLite
 
-## 📁 Project Structure
+
 
